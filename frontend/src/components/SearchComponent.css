@@ -1,0 +1,42 @@
+.pageContainer{
+  margin: auto;
+  text-align: center;
+}
+
+/* ------------------- SEARCH BAR ------------------- */
+.searchBar {
+  padding: 24px;
+  margin: 16px 0;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  box-shadow: 5px 10px 40px #f6f6f6;
+  margin-bottom: 80px;
+}
+
+.searchContainer{
+  width: 80%;
+  margin: auto;
+}
+
+/* ------------------- SEARCH RESULTS & FAVOURITES ------------------- */
+.resultsContainer{
+  border: 2px solid rgb(235, 239, 240);
+  border-radius: 8px;
+  padding: 24px;
+  margin-top: 80px;
+  margin-right: 80px;
+  height: 650px;
+  overflow: auto;
+}
+
+
+.colContainer{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.card{
+  border: none !important;
+  text-align: center !important;
+}
